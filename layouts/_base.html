@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title></title>
+        <title>{{ Pyegramming }}</title>
         <link rel="stylesheet" href="/css/site.css" />
     </head>
     <body>
@@ -18,12 +18,10 @@
             </nav>
         </header>
 
-        <main class="container"><h1>Pyegramming</h1>
-<p>Welcome to <strong>Pyegramming</strong> — my journal &amp; dev log.</p>
-</main>
+        <main class="container">{{ content }}</main>
 
         <footer class="site-footer">
-            <small>&copy; 2025 Jayson Pye</small>
+            <small>&copy; {{ "now" | date: "%Y" }} Jayson Pye</small>
         </footer>
     </body>
 </html>
