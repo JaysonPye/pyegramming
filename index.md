@@ -6,5 +6,3 @@ title: Pyegramming
 # {{ title }}
 
 Welcome to **Pyegramming** — my journal & dev log.
-
-{% recentLogs 5 %}

@@ -1,37 +1,26 @@
-const fs = require("fs");
-const MarkdownIt = require("markdown-it");
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
-module.exports = function (eleventyConfig) {
-  const md = new MarkdownIt({ html: true, breaks: true });
+export default function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("scripts");
+  eleventyConfig.addPassthroughCopy("favicon.svg");
 
-  function parseDailyLog() {
-    const raw = fs.readFileSync("daily-log.md", "utf8");
-    const chunks = raw.split(/\n(?=##\\s+\\d{4}-\\d{2}-\\d{2})/g);
+  eleventyConfig.addWatchTarget("css");
+  eleventyConfig.addWatchTarget("scripts");
 
-    return chunks
-      .filter((c) => c.trim().startsWith("##"))
-      .map((chunk) => {
-        const [first, ...rest] = chunk.split("\n");
-        const dateStr = first.replace(/^##\\s+/, "").trim();
-        return {
-          date: new Date(dateStr),
-          dateStr,
-          html: md.render(rest.join("\n")),
-        };
-      })
-      .sort((a, b) => b.date - a.date); // newest first
-  }
+  eleventyConfig.setLayoutsDirectory("_layouts");
 
-  eleventyConfig.addCollection("dailylog", () => parseDailyLog());
-
-  eleventyConfig.addShortcode("recentLogs", (n = 5) => {
-    return parseDailyLog()
-      .slice(0, n)
-      .map((e) => `<article><h2>${e.dateStr}</h2>${e.html}</article>`)
-      .join("");
+  eleventyConfig.setBrowserSyncConfig({
+    files: "./_site/**/*",
+    open: true,
   });
 
   return {
-    dir: { input: ".", layouts: "layouts", output: "_site" },
+    dir: {
+      input: ".",
+      includes: "_includes",
+      layouts: "_layouts",
+      output: "_site",
+    },
   };
-};
+}
