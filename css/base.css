@@ -75,6 +75,9 @@ h1 {
 h2 {
     font-size: 2em;
 }
+h4 {
+    text-align: center;
+}
 /* nav */
 .site-header {
     position: sticky;
@@ -98,12 +101,12 @@ h2 {
 .site-header .spacer {
     flex: 1;
 }
-.site-header nav > a:not(.brand) {
+.link-btn {
     color: hsl(var(--fg));
     padding: 0.35rem 0.6rem;
     border-radius: 8px;
 }
-.site-header nav > a:not(.brand):hover {
+.link-btn:hover {
     background: hsl(var(--accent) / 0.5);
     color: white;
 }
