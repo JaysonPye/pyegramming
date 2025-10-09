@@ -14,6 +14,16 @@ export default function (eleventyConfig) {
     files: "./_site/**/*",
     open: true,
   });
+  eleventyConfig.addCollection("posts", (api) =>
+    api
+      .getAll()
+      .filter(
+        (item) =>
+          Array.isArray(item.data.tags) &&
+          !item.data.eleventyExcludeFromCollections,
+      ),
+  );
+
   eleventyConfig.addCollection("tagsList", (api) => {
     const bad = new Set(["all", "nav"]);
     const tags = new Set();

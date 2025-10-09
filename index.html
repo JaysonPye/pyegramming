@@ -1,0 +1,56 @@
+---
+layout: _base.html
+title: Pyegramming
+pagination:
+    data: collections.posts
+    size: 10
+    alias: posts
+    reverse: true
+eleventyExcludeFromCollections: true
+eleventyComputed:
+    permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+---
+
+<h1>{{ title }}</h1>
+<h4>
+    Projects I’ve built, developer notes, and a Japanese diary — with the
+    occasional personal post mixed in.
+</h4>
+
+<ul class="grid-gap" style="list-style: none; padding: 0; margin: 0">
+    {% for post in posts %}
+    <li class="card">
+        <h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+        <div class="content">{{ post.templateContent | truncate: 220 }}</div>
+        <a class="read-more" href="{{ post.url | url }}">Continue reading →</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<nav
+    class="pagination"
+    style="
+        display: flex;
+        justify-content: space-between;
+        gap: var(--space);
+        margin-top: var(--space);
+    "
+>
+    {% if pagination.href.previous %}
+    <a class="button link-btn" href="{{ pagination.href.previous | url }}"
+        >← Newer</a
+    >
+    {% else %}
+    <span></span>
+    {% endif %} {% if pagination.href.next %}
+    <a class="button link-btn" href="{{ pagination.href.next | url }}"
+        >Older →</a
+    >
+    {% endif %}
+</nav>
+<nav class="tag-container" style="margin: var(--space) 0">
+    {% for t in collections.tagsList %}
+    <a href="{{ '/tags/' | url }}{{ t | slugify }}">#{{ t }}</a>
+    {% endfor %}
+</nav>
