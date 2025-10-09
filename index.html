@@ -51,6 +51,6 @@ eleventyComputed:
 </nav>
 <nav class="tag-container" style="margin: var(--space) 0">
     {% for t in collections.tagsList %}
-    <a href="{{ '/tags/' | url }}{{ t | slugify }}">#{{ t }}</a>
+    <a href="{{ '/tags/' | url }}{{ t }}">#{{ t }}</a>
     {% endfor %}
 </nav>
