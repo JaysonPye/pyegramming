@@ -1,0 +1,111 @@
+:root {
+    /* colors */
+    --bg: 222 47% 8%;
+    --surface: 222 39% 12%;
+    --fg: 210 20% 96%;
+    --muted: 220 12% 65%;
+    --accent: 199 89% 61%;
+    --border: 220 12% 26%;
+
+    /* sizing */
+    --space: 1rem;
+    --gap: 0.75rem;
+    --radius: 10px;
+    --header-h: 56px;
+}
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: hsl(var(--fg));
+    background: hsl(var(--bg));
+    font:
+        16px/1.6 ui-sans-serif,
+        system-ui,
+        -apple-system,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        "Noto Sans";
+}
+a {
+    color: hsl(var(--accent));
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.container {
+    width: min(100% - 2rem, 72rem);
+    margin-inline: auto;
+}
+.card {
+    background: hsl(var(--surface));
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    padding: var(--space);
+}
+.button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6ch;
+    padding: 0.5rem 0.8rem;
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    background: hsl(var(--surface));
+    color: hsl(var(--fg));
+}
+.input,
+textarea,
+select {
+    width: 100%;
+    padding: 0.55rem 0.7rem;
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    background: hsl(var(--surface));
+    color: hsl(var(--fg));
+}
+
+/* nav */
+.site-header {
+    position: sticky;
+    top: 0;
+    height: var(--header-h);
+    border-bottom: 1px solid hsl(var(--border));
+    background: hsl(var(--bg) / 0.7);
+    backdrop-filter: blur(6px);
+}
+.site-header nav {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: var(--gap);
+    padding-inline: var(--space);
+}
+.site-header .brand {
+    font-weight: 700;
+    color: hsl(var(--fg));
+}
+.site-header .spacer {
+    flex: 1;
+}
+.site-header nav > a:not(.brand) {
+    color: hsl(var(--fg));
+    padding: 0.35rem 0.6rem;
+    border-radius: 8px;
+}
+.site-header nav > a:not(.brand):hover {
+    background: hsl(var(--accent) / 0.25);
+    color: white;
+}
+@media (max-width: 640px) {
+    .site-header nav {
+        flex-wrap: wrap;
+        row-gap: 0.5rem;
+    }
+    .site-header .spacer {
+        display: none;
+    }
+}
