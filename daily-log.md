@@ -1,7 +1,8 @@
-# Daily Log of what I need to get done each day, with thoughts on how it went and new things I learned.
-# one [x] means 25minutes or a pomodoro of focus time
 ---
-
+layout: _base.html
+title: Daily Log
+---
+# This is a personal daily log, It's been included here just for ease of access, I may discuss my own introspective thoughts and ramblings here so reader beware.
 ## 2025-10-6
 - [x] Exercise
 - [x] Japanese Study

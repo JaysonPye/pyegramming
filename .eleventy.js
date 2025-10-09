@@ -14,13 +14,22 @@ export default function (eleventyConfig) {
     files: "./_site/**/*",
     open: true,
   });
+  eleventyConfig.addCollection("tagsList", (api) => {
+    const bad = new Set(["all", "nav"]);
+    const tags = new Set();
+    for (const item of api.getAll()) {
+      (item.data.tags || []).forEach((t) => {
+        if (!bad.has(t)) tags.add(t);
+      });
+    }
+    return [...tags];
+  });
 
   return {
     dir: {
       input: ".",
       includes: "_includes",
       layouts: "_layouts",
-      output: "_site",
     },
   };
 }

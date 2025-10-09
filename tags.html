@@ -1,0 +1,23 @@
+---
+pagination:
+    data: collections.tagsList
+    size: 1
+    alias: tag
+permalink: "/tags/{{ tag | slugify }}/"
+eleventyExcludeFromCollections: true
+layout: _base.html
+eleventyComputed:
+    title: "{{ tag | capitalize }}"
+---
+
+<h1>{{ tag | capitalize }}</h1>
+
+<ul class="grid-gap" style="list-style: none; padding: 0; margin: 0">
+    {% for post in collections[tag] | reverse %}
+    <li class="card">
+        <h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
+        <div class="content">{{ post.content | truncatewords: 75 }}</div>
+        <a class="mt-4 button" href="{{ post.url | url }}">Continue reading</a>
+    </li>
+    {% endfor %}
+</ul>
