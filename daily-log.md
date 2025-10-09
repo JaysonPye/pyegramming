@@ -2,7 +2,50 @@
 layout: _base.html
 title: Daily Log
 ---
-# This is a personal daily log, It's been included here just for ease of access, I may discuss my own introspective thoughts and ramblings here so reader beware.
+# Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
+---
+
+## 2025-10-9
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- 10k killed me today, I may need another rest to avoid runner's knee, it hurts like hell going up stairs atm.
+- blog site mostly done, looking good now.
+- Needs a projects page, maybe I should host that under jaysonpye.dev instead of pyegramming.jaysonpye.dev, or maybe it should all be under jaysonpye.dev? not sure yet.
+
+## 2025-10-8
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [x] Jobhunt / Client Search
+
+📝 Notes:
+- Worked on blog site a fair bit, and smashed Japanese ANKI work
+
+## 2025-10-7
+- [x] Exercise
+- [x] Japanese Study
+- [] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- Bit of a self note to jot down times I need to do certain things
+- 6-9 = care for kid
+- 9-10 = Japanese Anki deck
+- 10-2 = Most of my work tasks
+- 2-3 = Lunch + new anki cards
+- 3-5 = Work out, 10k run + JP listening
+- 5-6 = Shower, kid stuff, housework, eat
+- 6-9 = Wednesday gaming session ( on every wednesday, helps me chill out and hang out with aussies a bit )
+- 9-10 = Shin kanzen reading exercises
+- 10-~ get ready for bed + clean up.
+
+- Ended up failing my 10k today, bought some new shoes which should hopefully help but runner's knee is coming in red hot.
+- Managed to add a few things to my portfolio site but not a lot, mostly fiddling.
+
 ## 2025-10-6
 - [x] Exercise
 - [x] Japanese Study
