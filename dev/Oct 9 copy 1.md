@@ -1,8 +1,8 @@
 ---
-title: "asdxzxxx"
+title: "asdaa"
 date: 2025-10-09
 layout: _post.html
-tags: [japanese]
+tags: [dev]
 
 ---
 
