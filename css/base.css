@@ -1,5 +1,5 @@
 :root {
-    /* colors */
+    /* colors - based on editor's current scheme */
     --bg: 222 47% 8%;
     --surface: 222 39% 12%;
     --fg: 210 20% 96%;
@@ -35,8 +35,9 @@ a {
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    color: white;
 }
+
 .container {
     width: min(100% - 2rem, 72rem);
     margin-inline: auto;
@@ -67,7 +68,13 @@ select {
     background: hsl(var(--surface));
     color: hsl(var(--fg));
 }
-
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+h2 {
+    font-size: 2em;
+}
 /* nav */
 .site-header {
     position: sticky;
@@ -97,7 +104,7 @@ select {
     border-radius: 8px;
 }
 .site-header nav > a:not(.brand):hover {
-    background: hsl(var(--accent) / 0.25);
+    background: hsl(var(--accent) / 0.5);
     color: white;
 }
 @media (max-width: 640px) {
@@ -108,4 +115,33 @@ select {
     .site-header .spacer {
         display: none;
     }
+}
+
+/* cards */
+
+ul.grid-gap > li.card {
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+ul.grid-gap > li.card .content {
+    flex: 1;
+    margin-bottom: var(--space-3);
+}
+
+ul.grid-gap > li.card .read-more {
+    align-self: flex-end;
+    margin-top: auto;
+    color: hsl(var(--accent));
+    text-decoration: none;
+    font-weight: 600;
+    transition:
+        color 0.15s ease,
+        transform 0.1s ease;
+}
+
+ul.grid-gap > li.card .read-more:hover {
+    color: hsl(var(--accent-contrast));
 }
