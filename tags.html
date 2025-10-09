@@ -15,9 +15,9 @@ eleventyComputed:
 <ul class="grid-gap" style="list-style: none; padding: 0; margin: 0">
     {% for post in collections[tag] | reverse %}
     <li class="card">
-        <h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
+        <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
         <div class="content">{{ post.content | truncatewords: 75 }}</div>
-        <a class="mt-4 button" href="{{ post.url | url }}">Continue reading</a>
+        <a class="read-more" href="{{ post.url | url }}">Continue reading</a>
     </li>
     {% endfor %}
 </ul>
