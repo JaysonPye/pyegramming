@@ -5,6 +5,15 @@ title: Daily Log
 # Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2025-10-10
+- [] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- Huge japanese class today, including everything I probably spent 5 hours doing Japanese work.
+
 ## 2025-10-9
 - [x] Exercise
 - [x] Japanese Study
