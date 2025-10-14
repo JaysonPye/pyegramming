@@ -21,7 +21,8 @@ export default function (eleventyConfig) {
         (item) =>
           Array.isArray(item.data.tags) &&
           !item.data.eleventyExcludeFromCollections,
-      ),
+      )
+      .sort((a, b) => b.date - a.date),
   );
 
   eleventyConfig.addCollection("tagsList", (api) => {

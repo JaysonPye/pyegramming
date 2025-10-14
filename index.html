@@ -5,7 +5,6 @@ pagination:
     data: collections.posts
     size: 10
     alias: posts
-    reverse: true
 eleventyExcludeFromCollections: true
 eleventyComputed:
     permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
