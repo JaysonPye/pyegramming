@@ -2,8 +2,18 @@
 layout: _base.html
 title: Daily Log
 ---
-# Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
+## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
+
+## 2025-10-14
+- [] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [x] Jobhunt / Client Search
+
+📝 Notes:
+- Root canal operation at 5pm today makes me very scared!
+- Image editing is not my jam, have to do a bit for work today and I know I'm going to have things out of alignment etc.
 
 ## 2025-10-10
 - [] Exercise
