@@ -14,7 +14,7 @@ permalink: "/posts/{{ slug }}/"
 
 きたとき、「日本にいれば自然に日本語が分かるようになる」と思っていました。
 でも、1年終わってもあまり話せるようになりませんでした。
-仕事はずっと英語で、友達もみんあ英語を話していたので、日本語を使う機会あまりなかったんです。
+仕事はずっと英語で、友達もみんな英語を話していたので、日本語を使う機会あまりなかったんです。
 
 結婚して、２０２０年に日本に戻るつもりでした。
 それから本気で勉強を始めました。
@@ -27,8 +27,7 @@ permalink: "/posts/{{ slug }}/"
 でも、大学の勉強や仕事、家族の生活などで毎日が忙しくて、日本語を勉強するエネルギーがなっくなってしました。
 「ちょっと後退したかな...？」と思う時期もありました。
 
-最近気づいたのは、毎日少しでも。
-毎日で続けていけば、必ず上達するということです。
+最近気づいたのは、毎日少しでも続けていけば、必ず上達するということです。
 毎日の進歩を正確に測るのは難しいけれど、少しずつ続けていけば、6ヶ月後に振り返るときに成長を感じられると思います。
 
 今は２０２５年で、目標は一つ: １２月にJLPTN2を取ることです！
@@ -64,7 +63,7 @@ Now in 2025, my goal is simple: pass the JLPT N2 in December. To get there, I’
 
 Looking ahead, my long-term goal is to work for a Japanese company. I don’t want to live here for 10 or 15 years and still be a beginner, as is often the case with foreigners in Japan. If I can work in Japanese every day, I’ll be able to deepen my understanding of Japanese culture while improving my language skills naturally.
 
-
+Things I studied while writing (whether it be the kanji reading or use of grammar)
 さらに
 改善
 進歩
@@ -72,3 +71,6 @@ Looking ahead, my long-term goal is to work for a Japanese company. I don’t wa
 けれど
 続けていけば
 経って
+為
+測る
+「」と　、
