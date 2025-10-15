@@ -37,7 +37,19 @@ a {
 a:hover {
     color: white;
 }
+.brand-icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    transition:
+        transform 0.2s ease,
+        filter 0.2s ease;
+}
 
+.brand-icon:hover {
+    transform: scale(1.1) rotate(3deg);
+    filter: brightness(1.2);
+}
 .container {
     width: min(100% - 2rem, 72rem);
     margin-inline: auto;
