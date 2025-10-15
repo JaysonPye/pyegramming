@@ -166,3 +166,6 @@ ul.grid-gap > li.card .read-more {
 ul.grid-gap > li.card .read-more:hover {
     color: hsl(var(--accent-contrast));
 }
+small {
+    color: hsl(var(--accent) / 0.7);
+}
