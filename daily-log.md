@@ -12,6 +12,17 @@ title: Daily Log
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+- Root canal cap fell out and had to revisit the dentist to get some painkillers etc
+- Work will have a large project that needs to be done in the next two weeks so it looks like my schedule will be packed.
+- Running has been adversely affected by this root canal thing as if i breath through my mouth (when i get tired running) it hurts so bad i get a massive headache.
+
+## 2025-10-14
+- [] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [x] Jobhunt / Client Search
+
+📝 Notes:
 - Root canal operation at 5pm today makes me very scared!
 - Image editing is not my jam, have to do a bit for work today and I know I'm going to have things out of alignment etc.
 
