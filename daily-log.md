@@ -5,7 +5,7 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
-## 2025-10-14
+## 2025-10-16
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
@@ -15,6 +15,18 @@ title: Daily Log
 - Root canal cap fell out and had to revisit the dentist to get some painkillers etc
 - Work will have a large project that needs to be done in the next two weeks so it looks like my schedule will be packed.
 - Running has been adversely affected by this root canal thing as if i breath through my mouth (when i get tired running) it hurts so bad i get a massive headache.
+
+## 2025-10-14
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [x] Jobhunt / Client Search
+
+📝 Notes:
+- Knee tendinitis or whatever this is is still killing me from running! Managed to run around 4k before it was getting too painful, went to the gym after.
+- Work stuff has a hilarious deadline, although I work part time they want a full wordpress site with additionall apps within, and the deadline is 2 weeks.
+- I need to find a full time role soon, I really enjoy this flexible way of living but it's probably not sustainable long term.
+
 
 ## 2025-10-14
 - [] Exercise
