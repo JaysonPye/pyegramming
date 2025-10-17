@@ -5,7 +5,6 @@ layout: _post.html
 tags: [books]
 ---
 
-## [The Primal Hunter](https://www.goodreads.com/series/339304-the-primal-hunter)
 *by Zogarth*
 
 I have a few Litrpg series that I enjoy, but none have had me craving the next book each time I finish like *The Primal Hunter*. It follows most of the typical tropes...
@@ -16,3 +15,6 @@ I have a few Litrpg series that I enjoy, but none have had me craving the next b
 What Makes the Primal Hunter special though isn't just the leveling or power creep, it's the sheer scale. You start with some regular guy hunting deer in a forest, and a few books later he's found himself in the midst of political intrigue involving gods and eldritch horrors. Yet somehow, he manages to stay grounded and be a regular guy trying to min-max his build.
 
 Sometimes I just want something that isn't trying too hard. I want numbers going up, interesting fight scenes, and a universe full of secrets. The Primal Hunter gives me exactly that.
+
+
+[The Primal Hunter](https://www.goodreads.com/series/339304-the-primal-hunter)
