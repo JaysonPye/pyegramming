@@ -1,6 +1,6 @@
 ---
 title: "The Primal Hunter"
-date: 2025-10-14
+date: 2025-10-17
 layout: _post.html
 tags: [books]
 ---
