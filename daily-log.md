@@ -6,6 +6,18 @@ title: Daily Log
 ---
 
 ## 2025-10-20
+- [] Exercise
+- [x] Japanese Study
+- [] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- The way wordpress pieces integrate with things and the professional standards go against my feelings.
+- I absolutely hate opening up a dashboard and creating elements.
+
+- Also had another session on my root canal, I don't love how Japanese dentists do things 30mins at a time.
+
+## 2025-10-20
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
