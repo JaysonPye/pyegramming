@@ -5,7 +5,18 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
-## 2025-10-20
+## 2025-10-23
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- Having such a quick turnaround deadline is rough when I'm supposed to be working in a small capacity, but I love a challenge and I plan on banking this time and relaxing more next week with more time for JP study.
+- Doing Japanese daily again and having lessons has been a gamechanger. I felt stuck at "I can get by" for a long time.
+- 10k run again today! It's interesting doing it in the cold!
+
+## 2025-10-21
 - [] Exercise
 - [x] Japanese Study
 - [] IT Self-Study
