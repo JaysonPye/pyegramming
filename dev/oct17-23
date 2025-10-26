@@ -1,0 +1,29 @@
+---
+title: "This Week In Coding 10/24"
+date: 2025-10-24
+layout: _post.html
+tags: [dev, eleventy, wordpress, rails]
+---
+
+A quick recap of what I worked on, fixed, or learned this week.
+I'm trying to keep track of small wins and new things that I pick up week to week.
+
+---
+
+### Projects & Progress
+
+- Kids Up Seasonal Site
+
+I need to test things more thoroughly.
+I added a feature months ago that I knew wouldn't get used, and maybe that was the impetus behind me not really testing thoroughly. It of course had dev tests, but something
+functioned slightly differently on prod and therefore when it was finally used there were issues at a fairly critical time.
+
+
+- Vision up & general
+
+The company finally decided on a design and had confirmation to start a large wordpress app outsourced for a client.
+They essentially asked for everything that kids-up.jp does, and gave us <2 weeks to create it.
+Initially I thought this would be a nice chance to collaborate, and the expectation I had was that I would set things up for a FE dev to write the pages. Turns out that dev was busy and I was given the task of creating everything.
+I worked hard at it and managed to at least produce a homepage and all the functionality for individual page development, despite not really using PHP since university.
+wellpeak-dev.great-site.net is the current staging area for it, designs are really cool but after doing the basic functionality I was then informed that there were no more designs being given past the homepage so I'll also be doing that.
+It's a lot for a part time job to produce in two weeks, but it's also a good learning opportunity. I personally feel that I lack heavily in my designs and speed of general webpage development so I'll spend a fair bit of extra time this week to polish things off.
