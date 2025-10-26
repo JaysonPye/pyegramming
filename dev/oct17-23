@@ -14,16 +14,13 @@ I'm trying to keep track of small wins and new things that I pick up week to wee
 
 - Kids Up Seasonal Site
 
-I need to test things more thoroughly.
-I added a feature months ago that I knew wouldn't get used, and maybe that was the impetus behind me not really testing thoroughly. It of course had dev tests, but something
-functioned slightly differently on prod and therefore when it was finally used there were issues at a fairly critical time.
+I was reminded this week how important it is to test things properly. I added a feature months ago that I knew probably wouldn’t get used, and maybe that was part of why I didn’t test it as thoroughly as I should have. It worked fine on dev, but once it was finally used in production there were a few issues because it behaved slightly differently. Definitely a reminder that even the “unlikely to be used” stuff needs a proper check from end to end.
 
 
 - Vision up & general
 
-The company finally decided on a design and had confirmation to start a large wordpress app outsourced for a client.
-They essentially asked for everything that kids-up.jp does, and gave us <2 weeks to create it.
-Initially I thought this would be a nice chance to collaborate, and the expectation I had was that I would set things up for a FE dev to write the pages. Turns out that dev was busy and I was given the task of creating everything.
-I worked hard at it and managed to at least produce a homepage and all the functionality for individual page development, despite not really using PHP since university.
-wellpeak-dev.great-site.net is the current staging area for it, designs are really cool but after doing the basic functionality I was then informed that there were no more designs being given past the homepage so I'll also be doing that.
-It's a lot for a part time job to produce in two weeks, but it's also a good learning opportunity. I personally feel that I lack heavily in my designs and speed of general webpage development so I'll spend a fair bit of extra time this week to polish things off.
+The company finally decided on a design and gave the go-ahead for a big WordPress project for a client. They basically asked for everything that kids-up.jp does, but with less than two weeks to build it.
+
+At first I thought I’d just be setting things up for a frontend dev to handle, but they ended up being unavailable, so I got the entire thing handed to me. It’s been a lot, but I managed to get the homepage and the base setup for all the individual pages working. I haven’t really used PHP much since university, so it’s been a good stretch and a nice challenge.
+
+The staging site is *wellpeak-dev.great-site.net*. The designs are great, but I found out after finishing the core setup that there aren’t any more designs coming beyond the homepage, so now I’ll be handling the rest myself. It’s a big task for a part-time role, but it’s also a good chance to improve my eye for design and speed up my overall web development process. I’ll spend a bit of extra time polishing everything this week.
