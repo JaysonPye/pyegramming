@@ -5,6 +5,17 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2025-10-27
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- My consistency has been insanely good lately. I'll sometimes multitask and watch something while I study, but I study or work basically all the time.
+- I have a little over a month until the JLPT N2 test, to prepare for this I'm studying around 4 hours of Japanese per day.
+- I hope to scale up my reading to the point where I'm reading 2~ hours of reading exercises, and then casually reading in Japanese outside of that.
+
 ## 2025-10-23
 - [x] Exercise
 - [x] Japanese Study
