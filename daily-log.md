@@ -6,6 +6,16 @@ title: Daily Log
 ---
 
 ## 2025-10-27
+- [] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+📝 Notes:
+- Work was very busy and as such I took a bit of a break from my logging.
+- Starting to get on top of things again today so I aim to get life back on track.
+
+## 2025-10-27
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
