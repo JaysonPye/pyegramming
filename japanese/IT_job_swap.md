@@ -1,6 +1,6 @@
 ---
 title: "なぜプログラマー？"
-date: 2025-10-15
+date: 2025-11-07
 layout: _post.html
 tags: [japanese]
 slug: why-programming
