@@ -6,6 +6,19 @@ title: Daily Log
 ---
 
 
+## 2025-11-14
+- [x] Exercise
+- [x] Japanese Study
+- [] IT Self-Study
+- [] Jobhunt / Client Search
+
+Notes:
+- We adopted a cat!
+- Japanese study is going well
+- SMASHED at work, a lot of deliverables and small change requests as maintennance to legacy apps.
+
+
+
 ## 2025-11-13
 - [] Exercise
 - [x] Japanese Study
