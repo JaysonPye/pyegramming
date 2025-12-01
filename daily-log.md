@@ -6,6 +6,12 @@ title: Daily Log
 ---
 
 
+## 2025-12-1
+- Stopping my checklist for a little bit as I have a whole range of things going on.
+- Recently I haven't been sending a daily log through and it's because I've been incredible busy studying Japanese.
+- I feel like I've improved lightyears, but after taking an N2 practice test I'm nervous as the reading section is still very sketchy.
+- I plan to do a whole lot of practice of the next week with specifically a reading textbook.
+
 ## 2025-11-14
 - [x] Exercise
 - [x] Japanese Study
