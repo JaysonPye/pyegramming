@@ -21,15 +21,62 @@
                         decoding="async"
                     />
                 </a>
-                <div class="spacer"></div>
-                <a class="link-btn" href="/tags/dev/">Dev Notes</a>
-                <a class="link-btn" href="/tags/books/">Books</a>
-                <a class="link-btn" href="/tags/japanese">Japanese</a>
-                <a class="link-btn" href="/daily-log/">Daily-log</a>
-                <a class="link-btn" href="https://jaysonpye.dev">Portfolio</a>
+                <button
+                    class="menu-toggle"
+                    aria-label="Open menu"
+                    aria-expanded="false"
+                >
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <div class="nav-links">
+                    <a class="link-btn" href="/tags/dev/">Dev Notes</a>
+                    <a class="link-btn" href="/tags/books/">Books</a>
+                    <a class="link-btn" href="/tags/japanese">Japanese</a>
+                    <a class="link-btn" href="/daily-log/">Daily-log</a>
+                    <a class="link-btn" href="https://jaysonpye.dev"
+                        >Portfolio</a
+                    >
+                </div>
             </nav>
+            <div class="menu-overlay" aria-hidden="true"></div>
         </header>
 
         <main class="container">{{ content }}</main>
+
+        <script>
+            const toggle = document.querySelector(".menu-toggle");
+            const navLinks = document.querySelector(".nav-links");
+            const overlay = document.querySelector(".menu-overlay");
+
+            if (toggle && navLinks && overlay) {
+                const closeMenu = () => {
+                    navLinks.classList.remove("open");
+                    document.body.classList.remove("nav-open");
+                    toggle.setAttribute("aria-expanded", "false");
+                };
+
+                toggle.addEventListener("click", () => {
+                    const isOpen = navLinks.classList.toggle("open");
+                    document.body.classList.toggle("nav-open", isOpen);
+                    toggle.setAttribute("aria-expanded", String(isOpen));
+                });
+
+                overlay.addEventListener("click", closeMenu);
+
+                navLinks.addEventListener("click", (event) => {
+                    if (event.target instanceof HTMLAnchorElement) {
+                        closeMenu();
+                    }
+                });
+
+                document.addEventListener("keyup", (event) => {
+                    if (event.key === "Escape") {
+                        closeMenu();
+                    }
+                });
+            }
+        </script>
     </body>
 </html>
