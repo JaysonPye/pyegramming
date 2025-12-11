@@ -25,6 +25,30 @@ export default function (eleventyConfig) {
       .sort((a, b) => b.date - a.date),
   );
 
+  eleventyConfig.addCollection("postsByTag", (api) => {
+    const bad = new Set(["all", "nav"]);
+    const posts = api
+      .getAll()
+      .filter(
+        (item) =>
+          Array.isArray(item.data.tags) &&
+          !item.data.eleventyExcludeFromCollections,
+      )
+      .sort((a, b) => b.date - a.date); // newest first
+
+    const byTag = {};
+
+    for (const post of posts) {
+      for (const tag of post.data.tags || []) {
+        if (bad.has(tag)) continue;
+        if (!byTag[tag]) byTag[tag] = [];
+        byTag[tag].push(post);
+      }
+    }
+
+    return byTag;
+  });
+
   eleventyConfig.addCollection("tagsList", (api) => {
     const bad = new Set(["all", "nav"]);
     const tags = new Set();

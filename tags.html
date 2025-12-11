@@ -13,7 +13,7 @@ eleventyComputed:
 <h1>{{ tag | capitalize }}</h1>
 
 <ul class="grid-gap" style="list-style: none; padding: 0; margin: 0">
-    {% for post in collections[tag] | reverse %}
+    {% for post in collections.postsByTag[tag] %}
     <li class="card">
         <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
         <div class="content">{{ post.content | truncate: 220 }}</div>
