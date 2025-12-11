@@ -192,11 +192,6 @@ h4 {
     overflow: hidden;
 }
 
-.nav-links.open {
-    right: var(--space);
-    opacity: 1;
-    pointer-events: auto;
-}
 @media (max-width: 640px) {
     .site-header nav {
         flex-wrap: nowrap;
@@ -215,41 +210,52 @@ h4 {
     }
 
     .nav-links {
-        position: fixed;
-        inset: var(--header-h) 0 var(--space);
-        margin: auto;
-        min-height: calc(100vh - var(--header-h) - var(--space));
-        transform: scale(0.96);
-        background: hsl(var(--surface));
-        border: 1px solid hsl(var(--border));
-        border-radius: calc(var(--radius) + 4px);
-        padding: calc(var(--space) * 1.25);
-        flex-direction: column;
-        justify-content: center;
-        gap: var(--space);
-        width: min(420px, calc(100% - 3 * var(--space)));
-        box-shadow: 0 18px 70px hsl(var(--bg) / 0.7);
-        opacity: 0;
-        pointer-events: none;
-        transition:
-            opacity 0.2s ease,
-            transform 0.2s ease;
-        z-index: 999;
-        text-align: center;
-    }
-
-    .nav-links.open,
-    .nav-open .nav-links {
-        opacity: 1;
-        pointer-events: auto;
-        transform: scale(1);
+        display: none;
     }
 
     .site-header nav {
         gap: var(--space);
     }
 
-    .nav-links a {
+    .menu-overlay {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: hsl(var(--bg) / 0.75);
+        backdrop-filter: blur(4px);
+        transition: opacity 0.2s ease;
+        opacity: 0;
+        pointer-events: none;
+        z-index: 998;
+    }
+
+    .mobile-menu {
+        background: hsl(var(--surface));
+        border: 1px solid hsl(var(--border));
+        border-radius: calc(var(--radius) + 4px);
+        padding: calc(var(--space) * 1.25);
+        pointer-events: auto;
+        display: flex;
+        flex-direction: column;
+        gap: var(--space);
+        text-align: center;
+        transform: scale(0.96);
+        opacity: 0;
+        transition:
+            opacity 0.2s ease,
+            transform 0.2s ease;
+    }
+
+    .mobile-nav-links {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: var(--space);
+    }
+
+    .mobile-nav-links a {
         width: 100%;
     }
 }

@@ -43,31 +43,53 @@
             </nav>
         </header>
 
-        <div class="menu-overlay" aria-hidden="true"></div>
+        <div class="menu-overlay" aria-hidden="true">
+            <div class="mobile-menu" role="dialog" aria-modal="true">
+                <button class="menu-close" aria-label="Close menu">×</button>
+                <nav class="mobile-nav-links">
+                    <a class="link-btn" href="/tags/dev/">Dev Notes</a>
+                    <a class="link-btn" href="/tags/books/">Books</a>
+                    <a class="link-btn" href="/tags/japanese">Japanese</a>
+                    <a class="link-btn" href="/daily-log/">Daily-log</a>
+                    <a class="link-btn" href="https://jaysonpye.dev"
+                        >Portfolio</a
+                    >
+                </nav>
+            </div>
+        </div>
 
         <main class="container">{{ content }}</main>
 
         <script>
             const toggle = document.querySelector(".menu-toggle");
-            const navLinks = document.querySelector(".nav-links");
             const overlay = document.querySelector(".menu-overlay");
+            const mobileLinks = document.querySelector(".mobile-nav-links");
+            const closeButton = document.querySelector(".menu-close");
 
-            if (toggle && navLinks && overlay) {
-                const closeMenu = () => {
-                    navLinks.classList.remove("open");
-                    document.body.classList.remove("nav-open");
-                    toggle.setAttribute("aria-expanded", "false");
-                };
-
-                toggle.addEventListener("click", () => {
-                    const isOpen = navLinks.classList.toggle("open");
+            if (toggle && overlay && mobileLinks && closeButton) {
+                const setOpen = (isOpen) => {
                     document.body.classList.toggle("nav-open", isOpen);
                     toggle.setAttribute("aria-expanded", String(isOpen));
+                    overlay.setAttribute("aria-hidden", String(!isOpen));
+                };
+
+                const closeMenu = () => setOpen(false);
+
+                toggle.addEventListener("click", () => {
+                    const isOpen =
+                        !document.body.classList.contains("nav-open");
+                    setOpen(isOpen);
                 });
 
-                overlay.addEventListener("click", closeMenu);
+                closeButton.addEventListener("click", closeMenu);
 
-                navLinks.addEventListener("click", (event) => {
+                overlay.addEventListener("click", (event) => {
+                    if (event.target === overlay) {
+                        closeMenu();
+                    }
+                });
+
+                mobileLinks.addEventListener("click", (event) => {
                     if (event.target instanceof HTMLAnchorElement) {
                         closeMenu();
                     }
