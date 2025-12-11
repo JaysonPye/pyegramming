@@ -172,9 +172,9 @@ h4 {
 
 .menu-overlay {
     position: fixed;
-    inset: var(--header-h) 0 0 0;
+    inset: 0;
     width: 100vw;
-    height: calc(100vh - var(--header-h));
+    height: 100vh;
     background: hsl(var(--bg) / 0.75);
     backdrop-filter: blur(4px);
     transition: opacity 0.2s ease;
@@ -247,7 +247,14 @@ h4 {
             opacity 0.2s ease,
             transform 0.2s ease;
     }
+    .nav-open .mobile-menu {
+        opacity: 1;
+        transform: scale(1);
+    }
 
+    .menu-close {
+        display: none;
+    }
     .mobile-nav-links {
         display: flex;
         flex-direction: column;
