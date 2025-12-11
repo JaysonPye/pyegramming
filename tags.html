@@ -16,7 +16,7 @@ eleventyComputed:
     {% for post in collections[tag] | reverse %}
     <li class="card">
         <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
-        <div class="content">{{ post.content | truncatewords: 75 }}</div>
+        <div class="content">{{ post.content | truncate: 220 }}</div>
         <a class="read-more" href="{{ post.url | url }}">Continue reading</a>
     </li>
     {% endfor %}
