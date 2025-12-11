@@ -21,15 +21,7 @@
                         decoding="async"
                     />
                 </a>
-                <button
-                    class="menu-toggle"
-                    aria-label="Open menu"
-                    aria-expanded="false"
-                >
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
+
                 <div class="nav-links">
                     <a class="link-btn" href="/tags/dev/">Dev Notes</a>
                     <a class="link-btn" href="/tags/books/">Books</a>
@@ -39,9 +31,19 @@
                         >Portfolio</a
                     >
                 </div>
+                <button
+                    class="menu-toggle"
+                    aria-label="Open menu"
+                    aria-expanded="false"
+                >
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
             </nav>
-            <div class="menu-overlay" aria-hidden="true"></div>
         </header>
+
+        <div class="menu-overlay" aria-hidden="true"></div>
 
         <main class="container">{{ content }}</main>
 

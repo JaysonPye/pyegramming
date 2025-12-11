@@ -145,6 +145,7 @@ h4 {
     padding: 8px;
     cursor: pointer;
     color: hsl(var(--fg));
+    margin-left: auto;
 }
 
 .menu-toggle span {
@@ -170,19 +171,19 @@ h4 {
 }
 
 .menu-overlay {
-    display: none;
     position: fixed;
     inset: 0;
+    width: 100vw;
+    height: 100vh;
     background: hsl(var(--bg) / 0.75);
     backdrop-filter: blur(4px);
     transition: opacity 0.2s ease;
     opacity: 0;
     pointer-events: none;
-    z-index: 8;
+    z-index: 998;
 }
 
 .nav-open .menu-overlay {
-    display: block;
     opacity: 1;
     pointer-events: auto;
 }
@@ -210,14 +211,14 @@ h4 {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        z-index: 10;
+        z-index: 1000;
     }
 
     .nav-links {
         position: fixed;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -55%) scale(0.96);
+        transform: translate(-50%, -50%) scale(0.96);
         background: hsl(var(--surface));
         border: 1px solid hsl(var(--border));
         border-radius: calc(var(--radius) + 4px);
@@ -231,11 +232,13 @@ h4 {
         transition:
             opacity 0.2s ease,
             transform 0.2s ease;
-        z-index: 9;
+        z-index: 999;
         text-align: center;
     }
 
     .nav-links.open {
+        opacity: 1;
+        pointer-events: auto;
         transform: translate(-50%, -50%) scale(1);
     }
 
