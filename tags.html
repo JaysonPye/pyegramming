@@ -12,15 +12,12 @@ eleventyComputed:
 
 <h1>{{ tag | capitalize }}</h1>
 
-{% assign taggedPosts = collections[tag] | sort: "date" | reverse %}
-
 <ul class="grid-gap" style="list-style: none; padding: 0; margin: 0">
-    {% for post in taggedPosts %}
+    {% for post in collections[tag] | reverse %}
     <li class="card">
         <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
-        <small>{{ post.date | date: "%B %d, %Y" }}</small>
-        <div class="content">{{ post.templateContent | truncate: 220 }}</div>
-        <a class="read-more" href="{{ post.url | url }}">Continue reading →</a>
+        <div class="content">{{ post.content | truncatewords: 75 }}</div>
+        <a class="read-more" href="{{ post.url | url }}">Continue reading</a>
     </li>
     {% endfor %}
 </ul>
