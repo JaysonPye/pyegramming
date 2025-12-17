@@ -5,6 +5,13 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2025-12/17
+
+- It's been a great end to the year as I'm kicking goals in terms of freelance work and Kidsup work.
+- I rewrote my batch pdf services in the vision up app to avoid multiple instances of puppeteer being opened in one call, I had thought
+that this would make it take half the time or something and void issues with over 200 kids taking a long time but in fact it has been sped up by a factor of 20.
+- Jumping out of features I started making for over a week has been a little insane.
+- Japanese lessons and overall motivation for JP study has been fantastic recently.
 
 ## 2025-12-1
 - Stopping my checklist for a little bit as I have a whole range of things going on.
