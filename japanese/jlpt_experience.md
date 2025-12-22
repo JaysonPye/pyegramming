@@ -1,9 +1,9 @@
 ---
 title: "JLPT Experience"
-date: 2025-11-07
+date: 2025-12-22
 layout: _post.html
 tags: [japanese jlpt]
-slug: why-programming
+slug: jlpt-experience
 permalink: "/posts/{{ slug }}/"
 ---
 
