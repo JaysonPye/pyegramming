@@ -51,7 +51,7 @@ a:hover {
     filter: brightness(1.2);
 }
 .container {
-    width: min(100% - 2rem, 72rem);
+    width: min(100% - 2rem, 60rem);
     margin-inline: auto;
 }
 .card {
