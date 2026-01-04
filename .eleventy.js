@@ -34,7 +34,7 @@ export default function (eleventyConfig) {
           Array.isArray(item.data.tags) &&
           !item.data.eleventyExcludeFromCollections,
       )
-      .sort((a, b) => b.date - a.date); // newest first
+      .sort((a, b) => b.date - a.date);
 
     const byTag = {};
 
