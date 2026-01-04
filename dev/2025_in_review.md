@@ -7,7 +7,7 @@ tags: [dev, life]
 
 ---
 
-A lot happened in 2025, both personally and professionally. It was one of those years where things didn’t always go to plan, but when I look back, it’s clear that a lot of important shifts happened. I wanted to write this partly as a record for myself, and partly as a way to think clearly about what I want to do differently going into 2026.
+- A lot happened in 2025, both personally and professionally. It was one of those years where things didn’t always go to plan, but when I look back, it’s clear that a lot of important shifts happened. I wanted to write this partly as a record for myself, and partly as a way to think clearly about what I want to do differently going into 2026.
 
 
 ### Work and project ownership
