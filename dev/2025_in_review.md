@@ -1,6 +1,6 @@
 ---
 title: "2025 in Review"
-date: 2026-1-04
+date: 2026-01-04
 layout: _post.html
 tags: [dev, life]
 ---
