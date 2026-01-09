@@ -5,6 +5,19 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2026-1/09
+
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+- The checklist is back! I'm on track now kicking goals daily.
+- Some changes to pricing took place in one of our applications without me receiving any information, leading to many urgent calls asking me to track down where staff created their issues and having me resolve problems at the database level.
+- 1 textbook a month goal is going according to plan for January! Almost finished "The Pragmatic Programmer" and I'm reading on with the next immediately afterwards.
+- Japanese lessons start again from tonight which is fantastic.
+- Leg day today felt fantastic, early gains when you start gym again are very motivating.
+
 ## 2025-12/17
 
 - It's been a great end to the year as I'm kicking goals in terms of freelance work and Kidsup work.
