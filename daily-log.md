@@ -5,6 +5,18 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2026-03/03
+
+- [x] Exercise
+- [x] Japanese Study
+- [] IT Self-Study
+- [] Jobhunt / Client Search
+
+- INFLUENZA! Every member of my family has had the flu one by one since the start of the year leading to very slow progress. Picking back up now and I'm managing to hit the gym and remain consistent with studies.
+- Japanese study needs a lot more work for hte next four months! Gotta get it!
+- Job search is currently on hold, I've done a lot of late stage interviews that didn't go my way and I'm honestly a little worn down.
+
+
 ## 2026-1/09
 
 - [x] Exercise
