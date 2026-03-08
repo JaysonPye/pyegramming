@@ -9,6 +9,30 @@ title: Daily Log
 
 - [x] Exercise
 - [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+- Son has been home a lot lately and I feel like his english level is skyrocketting.
+- Optimising hundreds of images based on what was delivered in figma then having the company re-send all images slightly different with AI edits is infuriating!!!!
+- Didn't get through a full textbook in February so I kinda hate myself.
+- Japanese lessons are going great.
+
+## 2026-03/04
+
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+- family is getting better.
+- Website development is interesting, but overall not as interesting as web apps.
+- I find myself feeling like someone putting things in boxes for a living while doing this. It's fun in short spurts doing design though.
+
+
+## 2026-03/03
+
+- [x] Exercise
+- [x] Japanese Study
 - [] IT Self-Study
 - [] Jobhunt / Client Search
 
