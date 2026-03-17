@@ -5,6 +5,19 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+## 2026-03/17
+
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [x] Jobhunt / Client Search
+
+- I need to work on job hunting again! Freelance is feeling a little dull and I don't like the direction it's going with all of this AI business.
+- I've requested to change my KidsUP hours with some conditions for WFH, I'd love that chance as I already have a lot of domain knoweldge and I am afforded some freedom to create things as I want to.
+- Exercise is so so, someones been sick a lot lately and it eats into the time I'd do that.
+- Japanese study is great! Monday lessons are really pushing me.
+
+
 ## 2026-03/03
 
 - [x] Exercise
