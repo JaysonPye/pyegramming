@@ -5,6 +5,18 @@ title: Daily Log
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
 ---
 
+
+## 2026-05/11
+
+- [] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+- [] Jobhunt / Client Search
+
+- Daily log is back! I tried to save time by avoiding logging everything, I have also realized that I need to keep a proper work Journal to track small things I've edited / need to get finished. I thought given that I'm being micromanaged a little more that it was maybe a wasted of time but some things have slipped through the cracks recently making deadlines more difficult.
+- I'm having an interesting issue at the moment that I'm sure a lot of developers have been going through. I can work faster with AI tools like codex, but I don't retain any of the knowledge. I was using an "agentic workflow" to do some LP recently while working on some other things and it ended up taking forever and when I ran out of tokens going in manually felt so painful. I almost wanted to just take a long lunch and come back when the window reopened. It was ironic because I would have already been finished had I done it manually. I should make a more in depth post about these sorts of experiences to flesh it out properly in my mind.
+
+
 ## 2026-03/17
 
 - [x] Exercise
