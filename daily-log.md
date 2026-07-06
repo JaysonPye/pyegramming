@@ -6,6 +6,18 @@ title: Daily Log
 ---
 
 
+## 2026-07/06
+
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+
+- Resume work today going through and removing old vague comments I used to have when I felt like my experience needed to be buffed out.
+- Exercise is going alright but I need to go more than 3x a week.
+- Managed to stop alcohol altogether with the wife recently and I feel like it's made my mornings so productive.
+- Did JLPT over the weekend, Will do a further writeup on my Japanese journey so far, but my main takeaway is I really just need to inject it into every day life.
+
+
 ## 2026-05/11
 
 - [] Exercise
