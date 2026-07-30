@@ -2,9 +2,26 @@
 layout: _base.html
 title: Daily Log
 ---
+
 ## Daily Log of what I need to get done each day, I discuss my own thoughts and beat myself up a bit so reader beware
+
 ---
 
+## 2026-07/30
+
+- [x] Exercise
+- [x] Japanese Study
+- [x] IT Self-Study
+
+- Work opportunity changed to more IT related responsibilities. I welcome and look forward to it. New schedule will involve at least 4 days work from home so that's a lifesaver also. I'm excited to get some new opportunities to work on and push features in new projects. Also at the prospect for streamlining the kids up hub with the uptick in recent clients.
+
+## 2026-07/24
+
+- [x] Exercise
+- [x] Japanese Study
+- [] IT Self-Study
+
+- New potential work opportunity opening up, adjascent to IT so not sure how to proceed.
 
 ## 2026-07/06
 
@@ -17,7 +34,6 @@ title: Daily Log
 - Managed to stop alcohol altogether with the wife recently and I feel like it's made my mornings so productive.
 - Did JLPT over the weekend, Will do a further writeup on my Japanese journey so far, but my main takeaway is I really just need to inject it into every day life.
 
-
 ## 2026-05/11
 
 - [] Exercise
@@ -27,7 +43,6 @@ title: Daily Log
 
 - Daily log is back! I tried to save time by avoiding logging everything, I have also realized that I need to keep a proper work Journal to track small things I've edited / need to get finished. I thought given that I'm being micromanaged a little more that it was maybe a wasted of time but some things have slipped through the cracks recently making deadlines more difficult.
 - I'm having an interesting issue at the moment that I'm sure a lot of developers have been going through. I can work faster with AI tools like codex, but I don't retain any of the knowledge. I was using an "agentic workflow" to do some LP recently while working on some other things and it ended up taking forever and when I ran out of tokens going in manually felt so painful. I almost wanted to just take a long lunch and come back when the window reopened. It was ironic because I would have already been finished had I done it manually. I should make a more in depth post about these sorts of experiences to flesh it out properly in my mind.
-
 
 ## 2026-03/17
 
@@ -40,7 +55,6 @@ title: Daily Log
 - I've requested to change my KidsUP hours with some conditions for WFH, I'd love that chance as I already have a lot of domain knoweldge and I am afforded some freedom to create things as I want to.
 - Exercise is so so, someones been sick a lot lately and it eats into the time I'd do that.
 - Japanese study is great! Monday lessons are really pushing me.
-
 
 ## 2026-03/03
 
@@ -65,7 +79,6 @@ title: Daily Log
 - Website development is interesting, but overall not as interesting as web apps.
 - I find myself feeling like someone putting things in boxes for a living while doing this. It's fun in short spurts doing design though.
 
-
 ## 2026-03/03
 
 - [x] Exercise
@@ -76,7 +89,6 @@ title: Daily Log
 - INFLUENZA! Every member of my family has had the flu one by one since the start of the year leading to very slow progress. Picking back up now and I'm managing to hit the gym and remain consistent with studies.
 - Japanese study needs a lot more work for hte next four months! Gotta get it!
 - Job search is currently on hold, I've done a lot of late stage interviews that didn't go my way and I'm honestly a little worn down.
-
 
 ## 2026-1/09
 
@@ -95,166 +107,188 @@ title: Daily Log
 
 - It's been a great end to the year as I'm kicking goals in terms of freelance work and Kidsup work.
 - I rewrote my batch pdf services in the vision up app to avoid multiple instances of puppeteer being opened in one call, I had thought
-that this would make it take half the time or something and void issues with over 200 kids taking a long time but in fact it has been sped up by a factor of 20.
+  that this would make it take half the time or something and void issues with over 200 kids taking a long time but in fact it has been sped up by a factor of 20.
 - Jumping out of features I started making for over a week has been a little insane.
 - Japanese lessons and overall motivation for JP study has been fantastic recently.
 
 ## 2025-12-1
+
 - Stopping my checklist for a little bit as I have a whole range of things going on.
 - Recently I haven't been sending a daily log through and it's because I've been incredible busy studying Japanese.
 - I feel like I've improved lightyears, but after taking an N2 practice test I'm nervous as the reading section is still very sketchy.
 - I plan to do a whole lot of practice of the next week with specifically a reading textbook.
 
 ## 2025-11-14
+
 - [x] Exercise
 - [x] Japanese Study
 - [] IT Self-Study
 - [] Jobhunt / Client Search
 
 Notes:
+
 - We adopted a cat!
 - Japanese study is going well
 - SMASHED at work, a lot of deliverables and small change requests as maintennance to legacy apps.
 
-
-
 ## 2025-11-13
+
 - [] Exercise
 - [x] Japanese Study
 - [] IT Self-Study
 - [] Jobhunt / Client Search
 
 Notes:
+
 - With my current JP grind it's been really hard to continue making daily notes, I really should as it holds me accountable.
 - I have been studying Japanese for 4~ hours a day outside of work and other household duties. I feel like I will be ready for JLPT N2's test in 23 days!
 
-
 ## 2025-11-07
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Work was very busy and as such I took a bit of a break from my logging.
 - Starting to get on top of things again today so I aim to get life back on track.
 
 ## 2025-10-27
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - My consistency has been insanely good lately. I'll sometimes multitask and watch something while I study, but I study or work basically all the time.
 - I have a little over a month until the JLPT N2 test, to prepare for this I'm studying around 4 hours of Japanese per day.
 - I hope to scale up my reading to the point where I'm reading 2~ hours of reading exercises, and then casually reading in Japanese outside of that.
 
 ## 2025-10-23
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Having such a quick turnaround deadline is rough when I'm supposed to be working in a small capacity, but I love a challenge and I plan on banking this time and relaxing more next week with more time for JP study.
 - Doing Japanese daily again and having lessons has been a gamechanger. I felt stuck at "I can get by" for a long time.
 - 10k run again today! It's interesting doing it in the cold!
 
 ## 2025-10-21
+
 - [] Exercise
 - [x] Japanese Study
 - [] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - The way wordpress pieces integrate with things and the professional standards go against my feelings.
 - I absolutely hate opening up a dashboard and creating elements.
 
 - Also had another session on my root canal, I don't love how Japanese dentists do things 30mins at a time.
 
 ## 2025-10-20
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Working through my first wordpress site today. I don't use PHP but I'm the sole dev so I'm expected to make the bones & pipelines etc for others to work on it.
 - It's been interesting putting it together and learning how wordpress sites generally function.
 
-
 ## 2025-10-16
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Root canal cap fell out and had to revisit the dentist to get some painkillers etc
 - Work will have a large project that needs to be done in the next two weeks so it looks like my schedule will be packed.
 - Running has been adversely affected by this root canal thing as if i breath through my mouth (when i get tired running) it hurts so bad i get a massive headache.
 
-
-
 ## 2025-10-14
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Knee tendinitis or whatever this is is still killing me from running! Managed to run around 4k before it was getting too painful, went to the gym after.
 - Work stuff has a hilarious deadline, although I work part time they want a full wordpress site with additionall apps within, and the deadline is 2 weeks.
 - I need to find a full time role soon, I really enjoy this flexible way of living but it's probably not sustainable long term.
 
-
 ## 2025-10-13
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Root canal operation at 5pm today makes me very scared!
 - Image editing is not my jam, have to do a bit for work today and I know I'm going to have things out of alignment etc.
 
 ## 2025-10-10
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Huge japanese class today, including everything I probably spent 5 hours doing Japanese work.
 
 ## 2025-10-9
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - 10k killed me today, I may need another rest to avoid runner's knee, it hurts like hell going up stairs atm.
 - blog site mostly done, looking good now.
 - Needs a projects page, maybe I should host that under jaysonpye.dev instead of pyegramming.jaysonpye.dev, or maybe it should all be under jaysonpye.dev? not sure yet.
 
 ## 2025-10-8
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Worked on blog site a fair bit, and smashed Japanese ANKI work
 
 ## 2025-10-7
+
 - [x] Exercise
 - [x] Japanese Study
 - [] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Bit of a self note to jot down times I need to do certain things
 - 6-9 = care for kid
 - 9-10 = Japanese Anki deck
@@ -270,12 +304,14 @@ Notes:
 - Managed to add a few things to my portfolio site but not a lot, mostly fiddling.
 
 ## 2025-10-6
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Learning 11ty in order to place this with some other blog aspects onto a static site I can host on githubIO.
 - Approximately 2 hours of Japanese practice today [x][x][x][x]
 - Ruby exercises [x][x]
@@ -284,79 +320,91 @@ Notes:
 - I think I may have to go for a walk and/or rethink how I'm going to do a 10k run every single day, even the soles of my feet are having troubles.
 
 ## 2025-10-6
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - I've been intermittently re-reading "the rails 7 way" and it's been quite eye opening now that I have more context and knowledge. I'm able to understand concepts and get some little tidbits of important information that may come up in a job interview and understand why it's such a way.
 - Another large set of Japanese lessons to complete today [x][x][x][x][x][x][x]
 - These 10k runs are breaking my knees, last night I couldn't really complete it so I'm hoping having that bit of rest allows me to set a personal best today.
 - I have already lost 2-3 KG in this 6 days so it's working an absolute treat, I find myself just going to bed early now that I'm not drinking, as I'm usually just studying and I tire myself out by 10.
 
 ## 2025-10-3
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Managed to go through the backlog of bugfixes for work and cross a lot of things off the list.
 - The 10k was incredibly painful but I managed to do 11k in 1 go, with a lot of walking on the way back as I'm still hobbled. Feet hurt but my knees don't.
 - Huge Japanese session from now until the end of my Japanese class at 9pm. [x][x][x][x][x][x][x]
 
 ## 2025-10-2
+
 - [x] Exercise
 - [] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - So the night after my first 10k of the month my knees hurt so bad at 1am I went downstairs and had frozen veggie packs on each for a little while.
 - Still had a very productive day, but I had to split the 10k into 3 segments and I basically hobbled.
 
 ## 2025-10-1
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Today marks the start of October, I have large personal goals for october in terms of my personal life.
 - The first is that I'm not going to drink any alcohol or eat trash this month.
 - The second is that I'm going to run 10km every single day. I'll be tracking this on Strava to share every day. I don't mind if I need to walk a lot of this or even just have an insanely slow pace, but I believe it's good for my mental to stick to this.
 - The third is that I'm not going to go back on what I've already been doing really well during September, which in particular is Japanese study and daily coding challenges.
 
 ## 2025-09-30
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Japanese lesson today [x][x][x]
 - I was a little behind on work so after my work shift was mostly meetings I spent most of my afternoon coding.
 
-
 ## 2025-09-29
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
 📝 Notes:
+
 - Japanese lesson today [x][x][x][x][x][x][x][x]
 - Insane amount of Japanese study at the moment, things are going fantastic on that front.
 
-
 ## 2025-09-26
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Japanese lesson today [x][x][x][x] 2 hour lesson at night
 - Had a fantastic workout
 - Ruby exercises [x][x]
@@ -364,12 +412,14 @@ Notes:
 - The wife is a bit sick so I'm also caring for her through the day.
 
 ## 2025-09-25
+
 - [] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
 📝 Notes:
+
 - Had some interesting hits from some work opportunities, but one was really pushing me for a role that I really have no experience in and I wasn't sure how to feel about it.
 - Another role I have a live coding round coming up for and I feel so bad about it.
 - Rails 7 way re-read through [x][x]
@@ -381,8 +431,8 @@ Notes:
 - [] ruby exercises
 - [] JP textbook stuff
 
-
 ## 2025-09-24
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
@@ -397,8 +447,8 @@ Notes:
 - Rails 7 way re-read through [x][x]
 - Japanese listening practice [x][x][x]
 
-
 ## 2025-09-23
+
 - [x] Exercise
 - [x] Japanese Study
 - [x] IT Self-Study
@@ -425,6 +475,7 @@ Notes:
 
 - Went to a Japanese lesson, my first ever official class.
 - I have always had fear of failure blocking me from putting myself out there for things like this, so it was a great step.
+
 ## 2025-09-19
 
 - [] Exercise
@@ -461,7 +512,6 @@ Notes:
 - I have been writing partially in neovim for a while, and have been making good use of vim motions, but I felt as though tailoring my dev experience and obsessing over configs was not really the kind of person that I am, I wanted something more out of the box but I didn't really enjoy the vscode experience (its slow)
 - Today I've started using Zed editor and I am so pleasantly surprised, it has basically all of the things that I want from vscode, but it feels snappy and fast when I open projects etc.
 - This editor basically feels like vim, but with the ease of using vscode.
-
 
 ## 2025-09-12
 
@@ -526,8 +576,6 @@ Notes:
 - Merged some old forked repo's ive been maintaining into their own so that my github window looks a little more full.
 - Rainy days make me feel lazy, I just want to watch tv or something.
 
-
-
 ## 2025-09-03
 
 - [x] Exercise
@@ -585,7 +633,6 @@ Notes:
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
-
 📝 Notes:
 
 - Had some fun experimenting with some static site ai generation for karaoke bar blue.
@@ -597,7 +644,6 @@ Notes:
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
-
 📝 Notes:
 
 - Started recording some stuff on youtube to keep myself accountable, not sure where it's going yet but I had to put myself out there.
@@ -608,7 +654,6 @@ Notes:
 - [] Japanese Study
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
-
 
 📝 Notes:
 
@@ -623,8 +668,8 @@ Notes:
 - [x] IT Self-Study
 - [] Jobhunt / Client Search
 
-
 📝 Notes:
+
 - Big bugfix session at work today, it's nice to learn more about what is happening under the hood, specifically with regards to devise and auth flows in Rails.
 - Security documentation had to be finalized and future security audits are now planned for.
 
@@ -635,8 +680,8 @@ Notes:
 - [x] IT Self-Study
 - [x] Jobhunt / Client Search
 
-
 📝 Notes:
+
 - Finished off a lot of KU work today
 - Terrible workout - I need to eat the night before.
 - Been playing with a lot of technologies and I think it'd actually just be best to go full-force into Rails lately, so ill finish the current textbook I'm reading and try to get motivated more for rails related projects.
@@ -666,10 +711,11 @@ Notes:
 - I've been slacking on this Journal as I always come to and from the PC im coding on but don't generally return after 6pm.
 - Working with Kanzen Master books for jlpt n2 practice, I will take it in December.
 - Many interesting interviews recently, but it is a bit of a let down that most recruiters are mostly interested in my Japanese ability, I recently
-had a chat with a recruiter that said something along the lines of "honestly as long as you are generally competent with coding companies just want to
-have a good interview and make sure your language abilities fit, they don't really care about your skills."
+  had a chat with a recruiter that said something along the lines of "honestly as long as you are generally competent with coding companies just want to
+  have a good interview and make sure your language abilities fit, they don't really care about your skills."
 - A lack of Ruby jobs in the market make me resent the current work I'm doing a little bit, was also told that people see maybe 1 Ruby job pop up each year in Japan.
 - My actual JS skills have suffered since i'm working on different things, maybe I need to read some books and leetcode grind in JS.
+
 ## 2025/07/28 (Monday)
 
 - [x] Exercise
@@ -677,19 +723,22 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] 1hr+ programming related textbook study
 
 📝 Notes:
+
 - Had a JS coding test over the weekend and realized if I'm listing react on my resume I need to get more in depth.
 - Fixed many different small things which let me feel that "I've done a lot today"
 - Made security documentation, small fixes based on OWASP ZAP reports.
 
 ## 2025/07-21 (Monday)
+
 - [x] Exercise
 - [x] Japanese Study
 
-
 📝 Notes:
+
 - Worked even though it's a public holiday as I want to do other things tomorrow.
 
 ## 2025/07-16 (Wednesday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -697,11 +746,12 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Worked a lot on some security documentation needed by P-up
 - Worked on the bar website a little, I probably need to create a better vision before I play with this any more.
 
-
 ## 2025/07-16 (Wednesday)
+
 - [] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -709,10 +759,12 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Need to look for freelance work
 - Need to study harder for both JP and technical
 
 ## 2025/07-15 (Tuesday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -720,12 +772,14 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Had an interesting job interview, unfortunately the commute is a little bit too long so it won't work out
 - Gym has been fantastic, I'm eating about 1800 calories a day and losing a lot of the weight gained over the last year.
 - Freelance has stagnated in terms of using apps etc, I need to find a better way to engage clients.
 - Creating a website currently for a bar in Shizuoka, it's good to flex my designer abilities sometimes, doing everything from scratch instead of webpacks is also good for flexing some syntax muscles, and for practicing tailwing v4.
 
 ## 2025/07-06 (Monday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [] Japanese Study
@@ -733,6 +787,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Another break for journalling as I was tracking things in few different places and kept forgetting here.
 - Will endeavor to continue in the long term it will be great to see my original thoughts and progress
 - Got a lot of work done today, started Bar Blue's website initial designs and setup with tailwind v4
@@ -742,6 +797,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - I did however take a Japanese interview and realised I need to work on this, I can't really speak technically at all in Japanese and that's a horrible hole to have in the IT field.
 
 ## 2025-06-26 (Thursday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -749,10 +805,12 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Took a journalling break while I was getting some things in order. I am doing very very well recently, signed up to a gym and have gone every day for two weeks and I feel amazing about it.
 - Plan to add small things on to try to get to a point where my habits are great.
 
 ## 2025-06-09 (Monday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -760,11 +818,13 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Went for a short run
 - Mostly troubleshooting again for KU work, I feel like 4 hours a day is not a lot of time to work on big things, I really want to just work 8 hours then not work the next, but when I tried it I got so many messages the next day and ended up basically working anyway.
 - Rained so I needed to do drop/pick for my kid and do a few house related things, thus my study suffered.
 
 ## 2025-06-05 (Thursday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -772,6 +832,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - A lot of things to do lately but I needed a bit of a break, heading to Shizuoka today to see a friend for a couple of days, he owns a bar so i'll work in that for a couple of nights.
 - Going to use this as a nice chance to reset, as I'm not happy with my production lately.
 
@@ -784,12 +845,14 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Using city gym until my favorite one reopens, at least I can get in the zone there.
 - Didn't do Journal for a week so taht isn't great.
 - Went into Kidsup yesterday to troubleshoot some things with IPADs, was nice to see people again.
 - Need to figure out a JP study thing since I probably need fluency to get a nice job at this rate.
 
 ## 2025-05-27 (Wednesday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -797,11 +860,13 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - IT work: Waiting on results from a few mtgs i need to have but they were rescheduled to Thursday, as a result I'll probably chill out a little on Kids up stuff today and work overtime Thurs/Fri to finish.
 - Health: Trying to eat healthier, GYM still isnt open near me so I'm exercising at home, it's a bit harder to get into a real zone at home so I am trying to adjust my diet too.
 - My kid felt better today so he's at day care and I can get things done.
 
 ## 2025-05-27 (Tuesday)
+
 - [x] Exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [] Japanese Study
@@ -809,6 +874,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - General: Managed to do daily tasks, child is sick so a lot of things were missed today which I am hoping to catch up on.
 
 ## 2025-05-26 (Monday)
@@ -820,6 +886,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Kidsup IT: I'm trying my best to fix things the right way with updated tests and analyzing the problem properly before adding quick fixes, as a result I think I'm getting better at recognizing what the correct approach is in a quicker manner.
 - Exercise: Run after kidsup work block.
 - General: Tried setting just a few tasks, and decided I am not going to have a casual drink at night for a little while, I think I can work more from 8-midnight here and there, but I never do when I have a drink, last night I sat there fixing some hobby stuff from 8pm-1am and I felt so good about it.
@@ -833,9 +900,11 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Kidsup IT: Made time estimates for most tasks that I could.
 - Exercise: Managed to get in a really good workout, trying to be consistent putting this at the utmost priority and it's working.
 - General: I think I can be much more productive, I keep overwhelming myself with how many tasks I want to complete, need to try this new method of less pressure.
+
 ## 2025-05-22 (Thursday)
 
 - [] Exercise
@@ -845,9 +914,11 @@ have a good interview and make sure your language abilities fit, they don't real
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Kidsup IT: managed to fix a few big bugs today that were sitting there needing to be done for a while now.
 - Study: Got some practice in with nvim stuff, but actually for KidsUP work I've been using vscode and I kind of feel like as I get better at it it might be better for me. We will see as i continue to practice this a little bit.
 - Exercise: As I said this will become a priority, I decided that this is the one non excusable thing I need to do every single day, before I moved to Japan fitness was my lifestyle really, my hobby. As I lived far from a gym here and corona happened I kind of fell off the wagon and it's at a point now where I kind of hate myself for it, the journey to healing that starts with making sure I work out daily and can get myself back into that sort of culture.
+
 ## 2025-05-21 (Wednesday)
 
 - [] Exercise
@@ -857,6 +928,7 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Kids up IT: Getting a lot of the things that have been on the menu to fix for 6 months done which feels fantastic.
 - Incredibly sick today, woke up with a searing headache at 3am and a fever, just pushing through to get basic things done.
 - Exercise: From Thursday this will become the new priority to make sure I can get it done daily.
@@ -870,12 +942,12 @@ have a good interview and make sure your language abilities fit, they don't real
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Need to rework how I am doing my schedule, maybe I might move the part time block to the afternoon, it's easier to focus hard when it is paid work so
-I think if i can move my study related things to the morning when I am the most motivated that might fit better.
+  I think if i can move my study related things to the morning when I am the most motivated that might fit better.
 - For today I am doing KU work through the usual 10-2 block.
 - Managed to do some good IT study and I am having better discipline with doing TDD development every time rather than taking shortcuts here and there.
-There is surely a balance between doing things the 'most optimal way' and speed so I am trying to find that balance, but the end result must be a good product.
-
+  There is surely a balance between doing things the 'most optimal way' and speed so I am trying to find that balance, but the end result must be a good product.
 
 ## 2025-05-19 (Monday)
 
@@ -886,10 +958,13 @@ There is surely a balance between doing things the 'most optimal way' and speed 
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - I am terrible at keeping a Journal.
 - I got a lot of study in and ended up spending most of my spare time doing Odin project stuff and Kids up work
 - I was in the zone a little bit working through some kids up LMS changes so I just worked way overtime doing it.
+
 ## 2025/05-15 (Thursday)
+
 - [x] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -897,10 +972,13 @@ There is surely a balance between doing things the 'most optimal way' and speed 
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Exercise: Almost fixed my back, keen to work out tomorrow.
 - IT related: Created party system, worked on new homework teacher's view.
 - Life: Saw a friend from Australia today, it was nice to walk around with someone and talk about Aussie related stuff.
+
 ## 2025/05-14 (Wednesday)
+
 - [x] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -908,11 +986,13 @@ There is surely a balance between doing things the 'most optimal way' and speed 
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Exercise: Back is actually almost normal, did a few dumbell exercises and stretched out
 - Japanese: Still not consistently doing anki, maybe a hard goal needs to happen by 10am cuz its hard after work
 - Family: Had some really fun family time, and decided id just start waking up earlier since the little one has been jumping on me from 5am while i try to sleep in.
 
 ## 2025/05-14 (Wednesday)
+
 - [] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -920,10 +1000,12 @@ There is surely a balance between doing things the 'most optimal way' and speed 
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Exercise: Back felt a fair bit better so taking a rest day
 - Motivation: Not a great day for achievements, I started working on a few things and got distracted, decided to take a walk and ended up loitering around for a fair while, had some family time after and never got back into it.
 
 ## 2025-05-13 (Tuesday)
+
 - [x] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [] Japanese Study
@@ -931,10 +1013,12 @@ There is surely a balance between doing things the 'most optimal way' and speed 
 - [] Freelance Work / Client Search
 
 📝 Notes:
+
 - Exercise: Back is feeling a bit better which is good, went for a run.
 - Study: Decided I should work through Odin stuff for react and js, I feel like my actual just programming skills have worsened, in terms of simple leetcode style problem solving. I spend most of the time figuring out routes and front end stuff lately.
 
 ## 2025-05-12 (Monday)
+
 - [] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
@@ -947,6 +1031,7 @@ Dev work: Decided the best time to practice my new setup is learning new project
 Kidsup: designing and implementing bulk billing procedures which is both interesting and kind of scary.
 
 ## 2025-05-09 (Friday)
+
 - [x] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [] Japanese Study
@@ -954,12 +1039,14 @@ Kidsup: designing and implementing bulk billing procedures which is both interes
 - [x] Freelance Work / Client Search
 
 📝 Notes:
+
 - Japanese: Didn't have time to study much which bothers me.
 - Exercise: "Back is still ruined from rows, but went for a run!
 - Dev work: Been addicted to building up my linux environment lately, but it feels a bit like procrastination as that is taking over actual study, or is this also study?
-Also fixed up a few things on an old react site.
+  Also fixed up a few things on an old react site.
 
 ## 2025-05-08 (Thursday)
+
 - [x] Morning exercise
 - [x] Kids Up IT Work Block (10am-2pm)
 - [x] Japanese Study
